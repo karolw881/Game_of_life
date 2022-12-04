@@ -5,8 +5,6 @@
 ### library MPI
 ### using Google Collab
 It's a modification and analysys of Game of Lifie in MPI 
-![Zrzut ekranu (34)](https://user-images.githubusercontent.com/79966545/205510065-dd9dc062-1ad3-47bf-a0f1-33151ff617c2.png)
-
 
 
 ## Amazing and Stunning Example 
