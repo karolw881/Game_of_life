@@ -11,8 +11,8 @@ It's a modification and analysys of Game of Lifie in MPI
 
 ## Amazing and Stunning Example 
 ### 1.
-![Zrzut ekranu (34)](https://user-images.githubusercontent.com/79966545/205510065-dd9dc062-1ad3-47bf-a0f1-33151ff617c2.png)
+![Zrzut ekranu (34)](https://user-images.githubusercontent.com/79966545/205510178-07e95f5b-fb08-48e6-b239-18b0fbb9671c.png)
 ### 2.
-![Zrzut ekranu (36)](https://user-images.githubusercontent.com/79966545/205510001-ff023e27-7873-441b-a731-31b6d5febe0b.png)
+![Zrzut ekranu (35)](https://user-images.githubusercontent.com/79966545/205510180-8421b7c6-f4e8-4168-bd37-2a352471a4eb.png)
 ### 3.
-![Zrzut ekranu (35)](https://user-images.githubusercontent.com/79966545/205510074-dbad8803-752d-45f3-b39d-8ec9ce3994a6.png)
+![Zrzut ekranu (36)](https://user-images.githubusercontent.com/79966545/205510183-7879f7d9-e6fa-467e-8b14-25731353d8dc.png)
