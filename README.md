@@ -13,8 +13,9 @@ It's a modification and analysys of Game of Lifie in MPI
 ### 2.
 ![Zrzut ekranu (36)](https://user-images.githubusercontent.com/79966545/205510183-7879f7d9-e6fa-467e-8b14-25731353d8dc.png)
 
-## Modificatio :
+## Modification :
 ### 1.
 Change Color of print to clearly see contrast of change 
 ### 2. 
 Add timer 
+
